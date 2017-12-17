@@ -3,7 +3,7 @@ import java.io.File;
 import java.io.FileReader;
 import java.io.IOException;
 import java.io.BufferedReader;
-public class Zadanie_6_1 {
+public class Zadanie_6_1{
 
 	public static void main(String[] args) throws IOException{
 		File plik1 = new File("C:\\Users\\test\\Desktop\\java\\test.txt");
